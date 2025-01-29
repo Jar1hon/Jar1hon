@@ -29,9 +29,7 @@
 <a href="https://instagram.com/jarihon" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/36/fb/33/36fb3346f60b3ef18544e47cacb0baf5.gif"  />
+</div>
 
 <br/>  
 
